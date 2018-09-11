@@ -1,0 +1,644 @@
+[INFO] Analysing... ../sequence-data\bfsp2\0001.fasta
+[INFO] Gene Name :: bfsp2
+[INFO] line Count 1107 and Sequence Length 78526
+[INFO] Alignment Score ==> -36987
+[INFO] Analysing... ../sequence-data\bfsp2\0002.fasta
+[INFO] Gene Name :: bfsp2
+[INFO] line Count 927 and Sequence Length 65761
+[INFO] Alignment Score ==> -31097
+[INFO] Analysing... ../sequence-data\bfsp2\ATF4.fasta
+[INFO] Gene Name :: bfsp2
+[INFO] line Count 120 and Sequence Length 8400
+[INFO] Alignment Score ==> -4074
+[INFO] Analysing... ../sequence-data\bfsp2\BANP.fasta
+[INFO] Gene Name :: bfsp2
+[INFO] line Count 1833 and Sequence Length 130023
+[INFO] Alignment Score ==> -55454
+[INFO] Analysing... ../sequence-data\bfsp2\CENPE.fasta
+[INFO] Gene Name :: bfsp2
+[INFO] line Count 1325 and Sequence Length 94018
+[INFO] Alignment Score ==> -43614
+[INFO] Analysing... ../sequence-data\bfsp2\MAX.fasta
+[INFO] Gene Name :: bfsp2
+[INFO] line Count 1382 and Sequence Length 98064
+[INFO] Alignment Score ==> -46316
+[INFO] Analysing... ../sequence-data\bfsp2\NEK2.fasta
+[INFO] Gene Name :: bfsp2
+[INFO] line Count 251 and Sequence Length 17715
+[INFO] Alignment Score ==> -8101
+[INFO] Analysing... ../sequence-data\bfsp2\PITX3.fasta
+[INFO] Gene Name :: bfsp2
+[INFO] line Count 164 and Sequence Length 11540
+[INFO] Alignment Score ==> -5351
+[INFO] Analysing... ../sequence-data\bfsp2\SPAG5.fasta
+[INFO] Gene Name :: bfsp2
+[INFO] line Count 309 and Sequence Length 21871
+[INFO] Alignment Score ==> -10158
+[INFO] Analysing... ../sequence-data\bfsp2\SUFU.fasta
+[INFO] Gene Name :: bfsp2
+[INFO] line Count 1869 and Sequence Length 132616
+[INFO] Alignment Score ==> -54676
+[INFO] Analysing... ../sequence-data\cdh13\0001.fasta
+[INFO] Gene Name :: cdh13
+[INFO] line Count 16714 and Sequence Length 1186618
+[INFO] Alignment Score ==> -54428
+[INFO] Analysing... ../sequence-data\cdh13\adipoq.fasta
+[INFO] Gene Name :: cdh13
+[INFO] line Count 228 and Sequence Length 16106
+[INFO] Alignment Score ==> -7385
+[INFO] Analysing... ../sequence-data\cdh13\brca2.fasta
+[INFO] Gene Name :: cdh13
+[INFO] line Count 1205 and Sequence Length 85485
+[INFO] Alignment Score ==> -40329
+[INFO] Analysing... ../sequence-data\cdh13\ccnd1.fasta
+[INFO] Gene Name :: cdh13
+[INFO] line Count 193 and Sequence Length 13650
+[INFO] Alignment Score ==> -6680
+[INFO] Analysing... ../sequence-data\cdh13\cdkn2a.fasta
+[INFO] Gene Name :: cdh13
+[INFO] line Count 392 and Sequence Length 27771
+[INFO] Alignment Score ==> -12737
+[INFO] Analysing... ../sequence-data\cdh13\fhit.fasta
+[INFO] Gene Name :: cdh13
+[INFO] line Count 21491 and Sequence Length 1525775
+[INFO] Alignment Score ==> -53830
+[INFO] Analysing... ../sequence-data\cdh13\kng1.fasta
+[INFO] Gene Name :: cdh13
+[INFO] line Count 390 and Sequence Length 27580
+[INFO] Alignment Score ==> -12699
+[INFO] Analysing... ../sequence-data\cdh13\nedd4l.fasta
+[INFO] Gene Name :: cdh13
+[INFO] line Count 5107 and Sequence Length 362501
+[INFO] Alignment Score ==> -54446
+[INFO] Analysing... ../sequence-data\cdh13\scn1a.fasta
+[INFO] Gene Name :: cdh13
+[INFO] line Count 2289 and Sequence Length 162435
+[INFO] Alignment Score ==> -53394
+[INFO] Analysing... ../sequence-data\cdh13\wwox.fasta
+[INFO] Gene Name :: cdh13
+[INFO] line Count 15906 and Sequence Length 1129248
+[INFO] Alignment Score ==> -54612
+[INFO] Analysing... ../sequence-data\cdh23\0001.fasta
+[INFO] Gene Name :: cdh23
+[INFO] line Count 5988 and Sequence Length 425089
+[INFO] Alignment Score ==> -54816
+[INFO] Analysing... ../sequence-data\cdh23\0002.fasta
+[INFO] Gene Name :: cdh23
+[INFO] line Count 56 and Sequence Length 3912
+[INFO] Alignment Score ==> -1791
+[INFO] Analysing... ../sequence-data\cdh23\abl1.fasta
+[INFO] Gene Name :: cdh23
+[INFO] line Count 1638 and Sequence Length 116218
+[INFO] Alignment Score ==> -52672
+[INFO] Analysing... ../sequence-data\cdh23\gjd2.fasta
+[INFO] Gene Name :: cdh23
+[INFO] line Count 48 and Sequence Length 3346
+[INFO] Alignment Score ==> -1441
+[INFO] Analysing... ../sequence-data\cdh23\gopc.fasta
+[INFO] Gene Name :: cdh23
+[INFO] line Count 606 and Sequence Length 42969
+[INFO] Alignment Score ==> -20151
+[INFO] Analysing... ../sequence-data\cdh23\lyn.fasta
+[INFO] Gene Name :: cdh23
+[INFO] line Count 1951 and Sequence Length 138444
+[INFO] Alignment Score ==> -54246
+[INFO] Analysing... ../sequence-data\cdh23\myo7a.fasta
+[INFO] Gene Name :: cdh23
+[INFO] line Count 1246 and Sequence Length 88383
+[INFO] Alignment Score ==> -42549
+[INFO] Analysing... ../sequence-data\cdh23\pcdh15.fasta
+[INFO] Gene Name :: cdh23
+[INFO] line Count 26094 and Sequence Length 1852594
+[INFO] Alignment Score ==> -52914
+[INFO] Analysing... ../sequence-data\cdh23\ush1c.fasta
+[INFO] Gene Name :: cdh23
+[INFO] line Count 724 and Sequence Length 51334
+[INFO] Alignment Score ==> -24889
+[INFO] Analysing... ../sequence-data\cdh23\wasf1.fasta
+[INFO] Gene Name :: cdh23
+[INFO] line Count 1148 and Sequence Length 81423
+[INFO] Alignment Score ==> -37597
+[INFO] Analysing... ../sequence-data\clock\0001.fasta
+[INFO] Gene Name :: clock
+[INFO] line Count 1706 and Sequence Length 121031
+[INFO] Alignment Score ==> -53768
+[INFO] Analysing... ../sequence-data\clock\CRY1.fasta
+[INFO] Gene Name :: clock
+[INFO] line Count 1467 and Sequence Length 104066
+[INFO] Alignment Score ==> -47489
+[INFO] Analysing... ../sequence-data\clock\CRY2.fasta
+[INFO] Gene Name :: clock
+[INFO] line Count 519 and Sequence Length 36737
+[INFO] Alignment Score ==> -17445
+[INFO] Analysing... ../sequence-data\clock\CSNK1A1.fasta
+[INFO] Gene Name :: clock
+[INFO] line Count 798 and Sequence Length 56546
+[INFO] Alignment Score ==> -26246
+[INFO] Analysing... ../sequence-data\clock\ESR1.fasta
+[INFO] Gene Name :: clock
+[INFO] line Count 6795 and Sequence Length 482340
+[INFO] Alignment Score ==> -53478
+[INFO] Analysing... ../sequence-data\clock\NCKAP5.fasta
+[INFO] Gene Name :: clock
+[INFO] line Count 14337 and Sequence Length 1017821
+[INFO] Alignment Score ==> -53840
+[INFO] Analysing... ../sequence-data\clock\PER1.fasta
+[INFO] Gene Name :: clock
+[INFO] line Count 230 and Sequence Length 16207
+[INFO] Alignment Score ==> -7782
+[INFO] Analysing... ../sequence-data\clock\PER2.fasta
+[INFO] Gene Name :: clock
+[INFO] line Count 661 and Sequence Length 46815
+[INFO] Alignment Score ==> -22265
+[INFO] Analysing... ../sequence-data\clock\PER3.fasta
+[INFO] Gene Name :: clock
+[INFO] line Count 872 and Sequence Length 61853
+[INFO] Alignment Score ==> -28726
+[INFO] Analysing... ../sequence-data\clock\TIMELESS.fasta
+[INFO] Gene Name :: clock
+[INFO] line Count 475 and Sequence Length 33656
+[INFO] Alignment Score ==> -15991
+[INFO] Analysing... ../sequence-data\col19a1\0001.fasta
+[INFO] Gene Name :: col19a1
+[INFO] line Count 4981 and Sequence Length 353575
+[INFO] Alignment Score ==> -53298
+[INFO] Analysing... ../sequence-data\col19a1\CAND1.fasta
+[INFO] Gene Name :: col19a1
+[INFO] line Count 651 and Sequence Length 46150
+[INFO] Alignment Score ==> -21452
+[INFO] Analysing... ../sequence-data\crebl2\0001.fasta
+[INFO] Gene Name :: crebl2
+[INFO] line Count 478 and Sequence Length 33841
+[INFO] Alignment Score ==> -15763
+[INFO] Analysing... ../sequence-data\crebl2\BCL2L14.fasta
+[INFO] Gene Name :: crebl2
+[INFO] line Count 715 and Sequence Length 50654
+[INFO] Alignment Score ==> -24408
+[INFO] Analysing... ../sequence-data\crebl2\CDKN1B.fasta
+[INFO] Gene Name :: crebl2
+[INFO] line Count 76 and Sequence Length 5277
+[INFO] Alignment Score ==> -2285
+[INFO] Analysing... ../sequence-data\crebl2\DNMT3L.fasta
+[INFO] Gene Name :: crebl2
+[INFO] line Count 229 and Sequence Length 16194
+[INFO] Alignment Score ==> -7460
+[INFO] Analysing... ../sequence-data\crebl2\DUSP16.fasta
+[INFO] Gene Name :: crebl2
+[INFO] line Count 1277 and Sequence Length 90598
+[INFO] Alignment Score ==> -42183
+[INFO] Analysing... ../sequence-data\crebl2\ELAVL1.fasta
+[INFO] Gene Name :: crebl2
+[INFO] line Count 675 and Sequence Length 47834
+[INFO] Alignment Score ==> -22559
+[INFO] Analysing... ../sequence-data\crebl2\LRP6.fasta
+[INFO] Gene Name :: crebl2
+[INFO] line Count 2160 and Sequence Length 153246
+[INFO] Alignment Score ==> -53846
+[INFO] Analysing... ../sequence-data\dapk1\0001.fasta
+[INFO] Gene Name :: dapk1
+[INFO] line Count 3023 and Sequence Length 214516
+[INFO] Alignment Score ==> -54342
+[INFO] Analysing... ../sequence-data\dapk1\app.fasta
+[INFO] Gene Name :: dapk1
+[INFO] line Count 4154 and Sequence Length 294820
+[INFO] Alignment Score ==> -53058
+[INFO] Analysing... ../sequence-data\dapk1\kras.fasta
+[INFO] Gene Name :: dapk1
+[INFO] line Count 663 and Sequence Length 46966
+[INFO] Alignment Score ==> -21521
+[INFO] Analysing... ../sequence-data\dapk1\mapk1.fasta
+[INFO] Gene Name :: dapk1
+[INFO] line Count 1546 and Sequence Length 109658
+[INFO] Alignment Score ==> -51557
+[INFO] Analysing... ../sequence-data\dapk1\mapt.fasta
+[INFO] Gene Name :: dapk1
+[INFO] line Count 1916 and Sequence Length 135956
+[INFO] Alignment Score ==> -55692
+[INFO] Analysing... ../sequence-data\dapk1\nfkb1.fasta
+[INFO] Gene Name :: dapk1
+[INFO] line Count 1660 and Sequence Length 117785
+[INFO] Alignment Score ==> -53940
+[INFO] Analysing... ../sequence-data\dapk1\pten.fasta
+[INFO] Gene Name :: dapk1
+[INFO] line Count 1552 and Sequence Length 110132
+[INFO] Alignment Score ==> -50622
+[INFO] Analysing... ../sequence-data\dapk1\stat3.fasta
+[INFO] Gene Name :: dapk1
+[INFO] line Count 1076 and Sequence Length 76344
+[INFO] Alignment Score ==> -36179
+[INFO] Analysing... ../sequence-data\dapk1\tnf.fasta
+[INFO] Gene Name :: dapk1
+[INFO] line Count 42 and Sequence Length 2898
+[INFO] Alignment Score ==> -1345
+[INFO] Analysing... ../sequence-data\dapk1\tp53.fasta
+[INFO] Gene Name :: dapk1
+[INFO] line Count 276 and Sequence Length 19511
+[INFO] Alignment Score ==> -9446
+[INFO] Analysing... ../sequence-data\dyrk1a\0001.fasta
+[INFO] Gene Name :: dyrk1a
+[INFO] line Count 2143 and Sequence Length 152033
+[INFO] Alignment Score ==> -53498
+[INFO] Analysing... ../sequence-data\dyrk1a\AKT1.fasta
+[INFO] Gene Name :: dyrk1a
+[INFO] line Count 380 and Sequence Length 26864
+[INFO] Alignment Score ==> -12748
+[INFO] Analysing... ../sequence-data\dyrk1a\BDNF.fasta
+[INFO] Gene Name :: dyrk1a
+[INFO] line Count 962 and Sequence Length 68216
+[INFO] Alignment Score ==> -31809
+[INFO] Analysing... ../sequence-data\dyrk1a\BRCA1.fasta
+[INFO] Gene Name :: dyrk1a
+[INFO] line Count 1162 and Sequence Length 82439
+[INFO] Alignment Score ==> -38838
+[INFO] Analysing... ../sequence-data\dyrk1a\GSK3B.fasta
+[INFO] Gene Name :: dyrk1a
+[INFO] line Count 3924 and Sequence Length 278516
+[INFO] Alignment Score ==> -53640
+[INFO] Analysing... ../sequence-data\dyrk1a\MYC.fasta
+[INFO] Gene Name :: dyrk1a
+[INFO] line Count 110 and Sequence Length 7716
+[INFO] Alignment Score ==> -3551
+[INFO] Analysing... ../sequence-data\dyrk1a\PHYHIP.fasta
+[INFO] Gene Name :: dyrk1a
+[INFO] line Count 183 and Sequence Length 12920
+[INFO] Alignment Score ==> -6116
+[INFO] Analysing... ../sequence-data\dyrk1a\RB1.fasta
+[INFO] Gene Name :: dyrk1a
+[INFO] line Count 2547 and Sequence Length 180778
+[INFO] Alignment Score ==> -53198
+[INFO] Analysing... ../sequence-data\dyrk1a\SIRT1.fasta
+[INFO] Gene Name :: dyrk1a
+[INFO] line Count 484 and Sequence Length 34293
+[INFO] Alignment Score ==> -16163
+[INFO] Analysing... ../sequence-data\dyrk1a\SNCA.fasta
+[INFO] Gene Name :: dyrk1a
+[INFO] line Count 1634 and Sequence Length 115947
+[INFO] Alignment Score ==> -53204
+[INFO] Analysing... ../sequence-data\eif4e3\0001.fasta
+[INFO] Gene Name :: eif4e3
+[INFO] line Count 1081 and Sequence Length 76653
+[INFO] Alignment Score ==> -35855
+[INFO] Analysing... ../sequence-data\eif4e3\DCC.fasta
+[INFO] Gene Name :: eif4e3
+[INFO] line Count 17084 and Sequence Length 1212903
+[INFO] Alignment Score ==> -53928
+[INFO] Analysing... ../sequence-data\eif4e3\EIF4A1.fasta
+[INFO] Gene Name :: eif4e3
+[INFO] line Count 93 and Sequence Length 6479
+[INFO] Alignment Score ==> -2877
+[INFO] Analysing... ../sequence-data\eif4e3\EIF4E.fasta
+[INFO] Gene Name :: eif4e3
+[INFO] line Count 845 and Sequence Length 59886
+[INFO] Alignment Score ==> -27668
+[INFO] Analysing... ../sequence-data\eif4e3\EIF4E2.fasta
+[INFO] Gene Name :: eif4e3
+[INFO] line Count 475 and Sequence Length 33622
+[INFO] Alignment Score ==> -15823
+[INFO] Analysing... ../sequence-data\eif4e3\FBXW7.fasta
+[INFO] Gene Name :: eif4e3
+[INFO] line Count 3083 and Sequence Length 218788
+[INFO] Alignment Score ==> -53364
+[INFO] Analysing... ../sequence-data\eif4e3\MKNK1.fasta
+[INFO] Gene Name :: eif4e3
+[INFO] line Count 673 and Sequence Length 47665
+[INFO] Alignment Score ==> -22687
+[INFO] Analysing... ../sequence-data\eif4e3\MKNK2.fasta
+[INFO] Gene Name :: eif4e3
+[INFO] line Count 200 and Sequence Length 14094
+[INFO] Alignment Score ==> -6757
+[INFO] Analysing... ../sequence-data\eif4e3\TBC1D4.fasta
+[INFO] Gene Name :: eif4e3
+[INFO] line Count 2838 and Sequence Length 201407
+[INFO] Alignment Score ==> -53526
+[INFO] Analysing... ../sequence-data\eif4e3\THEMIS2.fasta
+[INFO] Gene Name :: eif4e3
+[INFO] line Count 205 and Sequence Length 14446
+[INFO] Alignment Score ==> -6597
+[INFO] Analysing... ../sequence-data\fundc1\0001.fasta
+[INFO] Gene Name :: fundc1
+[INFO] line Count 279 and Sequence Length 19703
+[INFO] Alignment Score ==> -9001
+[INFO] Analysing... ../sequence-data\fundc1\bcl2l1.fasta
+[INFO] Gene Name :: fundc1
+[INFO] line Count 853 and Sequence Length 60489
+[INFO] Alignment Score ==> -28818
+[INFO] Analysing... ../sequence-data\fundc1\CANX.fasta
+[INFO] Gene Name :: fundc1
+[INFO] line Count 760 and Sequence Length 53844
+[INFO] Alignment Score ==> -25649
+[INFO] Analysing... ../sequence-data\fundc1\CTBP1.fasta
+[INFO] Gene Name :: fundc1
+[INFO] line Count 609 and Sequence Length 43174
+[INFO] Alignment Score ==> -21236
+[INFO] Analysing... ../sequence-data\fundc1\CTBP2.fasta
+[INFO] Gene Name :: fundc1
+[INFO] line Count 2477 and Sequence Length 175780
+[INFO] Alignment Score ==> -55028
+[INFO] Analysing... ../sequence-data\fundc1\DNM1L.fasta
+[INFO] Gene Name :: fundc1
+[INFO] line Count 952 and Sequence Length 67490
+[INFO] Alignment Score ==> -30844
+[INFO] Analysing... ../sequence-data\fundc1\GABARAPL2.fasta
+[INFO] Gene Name :: fundc1
+[INFO] line Count 167 and Sequence Length 11785
+[INFO] Alignment Score ==> -5545
+[INFO] Analysing... ../sequence-data\fundc1\MAP1LC3A.fasta
+[INFO] Gene Name :: fundc1
+[INFO] line Count 196 and Sequence Length 13806
+[INFO] Alignment Score ==> -6672
+[INFO] Analysing... ../sequence-data\fundc1\ULK1.fasta
+[INFO] Gene Name :: fundc1
+[INFO] line Count 409 and Sequence Length 28927
+[INFO] Alignment Score ==> -13921
+[INFO] Analysing... ../sequence-data\fundc1\YES1.fasta
+[INFO] Gene Name :: fundc1
+[INFO] line Count 1306 and Sequence Length 92645
+[INFO] Alignment Score ==> -42864
+[INFO] Analysing... ../sequence-data\lamb1\0001.fasta
+[INFO] Gene Name :: lamb1
+[INFO] line Count 1139 and Sequence Length 80789
+[INFO] Alignment Score ==> -38217
+[INFO] Analysing... ../sequence-data\lamb1\CRP.fasta
+[INFO] Gene Name :: lamb1
+[INFO] line Count 35 and Sequence Length 2425
+[INFO] Alignment Score ==> -1059
+[INFO] Analysing... ../sequence-data\lamb1\HSPD1.fasta
+[INFO] Gene Name :: lamb1
+[INFO] line Count 198 and Sequence Length 13978
+[INFO] Alignment Score ==> -6520
+[INFO] Analysing... ../sequence-data\lamb1\LGALS3.fasta
+[INFO] Gene Name :: lamb1
+[INFO] line Count 234 and Sequence Length 16534
+[INFO] Alignment Score ==> -7525
+[INFO] Analysing... ../sequence-data\lamb1\LMNA.fasta
+[INFO] Gene Name :: lamb1
+[INFO] line Count 825 and Sequence Length 58457
+[INFO] Alignment Score ==> -27916
+[INFO] Analysing... ../sequence-data\lamb1\NQO1.fasta
+[INFO] Gene Name :: lamb1
+[INFO] line Count 249 and Sequence Length 17605
+[INFO] Alignment Score ==> -8210
+[INFO] Analysing... ../sequence-data\lamb1\NTRK1.fasta
+[INFO] Gene Name :: lamb1
+[INFO] line Count 947 and Sequence Length 67136
+[INFO] Alignment Score ==> -31975
+[INFO] Analysing... ../sequence-data\lamb1\PDGFRA.fasta
+[INFO] Gene Name :: lamb1
+[INFO] line Count 990 and Sequence Length 70235
+[INFO] Alignment Score ==> -33280
+[INFO] Analysing... ../sequence-data\lamb1\TGFB1.fasta
+[INFO] Gene Name :: lamb1
+[INFO] line Count 339 and Sequence Length 23988
+[INFO] Alignment Score ==> -11507
+[INFO] Analysing... ../sequence-data\lamb1\UBC.fasta
+[INFO] Gene Name :: lamb1
+[INFO] line Count 51 and Sequence Length 3538
+[INFO] Alignment Score ==> -1651
+[INFO] Analysing... ../sequence-data\mist\BHLHA15.fasta
+[INFO] Gene Name :: mist
+[INFO] line Count 13 and Sequence Length 805
+[INFO] Alignment Score ==> -252
+[INFO] Analysing... ../sequence-data\mist\CLNK.fasta
+[INFO] Gene Name :: mist
+[INFO] line Count 3552 and Sequence Length 252088
+[INFO] Alignment Score ==> -54382
+[INFO] Analysing... ../sequence-data\mist\STAT5A.fasta
+[INFO] Gene Name :: mist
+[INFO] line Count 351 and Sequence Length 24835
+[INFO] Alignment Score ==> -11693
+[INFO] Analysing... ../sequence-data\mrps18c\0001.fasta
+[INFO] Gene Name :: mrps18c
+[INFO] line Count 85 and Sequence Length 5963
+[INFO] Alignment Score ==> -2626
+[INFO] Analysing... ../sequence-data\mrps18c\HNRNPA1.fasta
+[INFO] Gene Name :: mrps18c
+[INFO] line Count 94 and Sequence Length 6580
+[INFO] Alignment Score ==> -3064
+[INFO] Analysing... ../sequence-data\mrps18c\MRPS11.fasta
+[INFO] Gene Name :: mrps18c
+[INFO] line Count 193 and Sequence Length 13595
+[INFO] Alignment Score ==> -6431
+[INFO] Analysing... ../sequence-data\mrps18c\MRPS2.fasta
+[INFO] Gene Name :: mrps18c
+[INFO] line Count 69 and Sequence Length 4842
+[INFO] Alignment Score ==> -2227
+[INFO] Analysing... ../sequence-data\mrps18c\MRPS27.fasta
+[INFO] Gene Name :: mrps18c
+[INFO] line Count 1443 and Sequence Length 102379
+[INFO] Alignment Score ==> -47873
+[INFO] Analysing... ../sequence-data\mrps18c\MRPS31.fasta
+[INFO] Gene Name :: mrps18c
+[INFO] line Count 601 and Sequence Length 42605
+[INFO] Alignment Score ==> -20206
+[INFO] Analysing... ../sequence-data\mrps18c\MRPS34.fasta
+[INFO] Gene Name :: mrps18c
+[INFO] line Count 21 and Sequence Length 1370
+[INFO] Alignment Score ==> -549
+[INFO] Analysing... ../sequence-data\mrps18c\MRPS5.fasta
+[INFO] Gene Name :: mrps18c
+[INFO] line Count 526 and Sequence Length 37250
+[INFO] Alignment Score ==> -17376
+[INFO] Analysing... ../sequence-data\mrps18c\MRPS6.fasta
+[INFO] Gene Name :: mrps18c
+[INFO] line Count 996 and Sequence Length 70594
+[INFO] Alignment Score ==> -33043
+[INFO] Analysing... ../sequence-data\mrps18c\PDGFB.fasta
+[INFO] Gene Name :: mrps18c
+[INFO] line Count 312 and Sequence Length 22097
+[INFO] Alignment Score ==> -10370
+[INFO] Analysing... ../sequence-data\ptprf\0001.fasta
+[INFO] Gene Name :: ptprf
+[INFO] line Count 1452 and Sequence Length 102973
+[INFO] Alignment Score ==> -49640
+[INFO] Analysing... ../sequence-data\ptprf\0002.fasta
+[INFO] Gene Name :: ptprf
+[INFO] line Count 1628 and Sequence Length 115530
+[INFO] Alignment Score ==> 115442
+[INFO] Analysing... ../sequence-data\ptprf\0003.fasta
+[INFO] Gene Name :: ptprf
+[INFO] line Count 749 and Sequence Length 53083
+[INFO] Alignment Score ==> -25028
+[INFO] Analysing... ../sequence-data\ptprf\0004.fasta
+[INFO] Gene Name :: ptprf
+[INFO] line Count 7171 and Sequence Length 509034
+[INFO] Alignment Score ==> -53140
+[INFO] Analysing... ../sequence-data\ptprf\0005.fasta
+[INFO] Gene Name :: ptprf
+[INFO] line Count 455 and Sequence Length 32184
+[INFO] Alignment Score ==> -15406
+[INFO] Analysing... ../sequence-data\ptprf\0006.fasta
+[INFO] Gene Name :: ptprf
+[INFO] line Count 18 and Sequence Length 1205
+[INFO] Alignment Score ==> -538
+[INFO] Analysing... ../sequence-data\ptprf\0007.fasta
+[INFO] Gene Name :: ptprf
+[INFO] line Count 23 and Sequence Length 1572
+[INFO] Alignment Score ==> -763
+[INFO] Analysing... ../sequence-data\ptprf\cdh1.fasta
+[INFO] Gene Name :: ptprf
+[INFO] line Count 1406 and Sequence Length 99746
+[INFO] Alignment Score ==> -46842
+[INFO] Analysing... ../sequence-data\ptprf\egfr.fasta
+[INFO] Gene Name :: ptprf
+[INFO] line Count 2703 and Sequence Length 191849
+[INFO] Alignment Score ==> -54172
+[INFO] Analysing... ../sequence-data\ptprf\trio.fasta
+[INFO] Gene Name :: ptprf
+[INFO] line Count 5243 and Sequence Length 372184
+[INFO] Alignment Score ==> -54416
+[INFO] Analysing... ../sequence-data\smoc1\0001.fasta
+[INFO] Gene Name :: smoc1
+[INFO] line Count 2188 and Sequence Length 155253
+[INFO] Alignment Score ==> -54630
+[INFO] Analysing... ../sequence-data\smoc1\DEFA1.fasta
+[INFO] Gene Name :: smoc1
+[INFO] line Count 38 and Sequence Length 2595
+[INFO] Alignment Score ==> -1173
+[INFO] Analysing... ../sequence-data\smoc1\DKK3.fasta
+[INFO] Gene Name :: smoc1
+[INFO] line Count 672 and Sequence Length 47592
+[INFO] Alignment Score ==> -22461
+[INFO] Analysing... ../sequence-data\smoc1\IGFBP1.fasta
+[INFO] Gene Name :: smoc1
+[INFO] line Count 77 and Sequence Length 5413
+[INFO] Alignment Score ==> -2450
+[INFO] Analysing... ../sequence-data\smoc1\LRP1.fasta
+[INFO] Gene Name :: smoc1
+[INFO] line Count 1216 and Sequence Length 86280
+[INFO] Alignment Score ==> -41686
+[INFO] Analysing... ../sequence-data\smoc1\NME2.fasta
+[INFO] Gene Name :: smoc1
+[INFO] line Count 93 and Sequence Length 6490
+[INFO] Alignment Score ==> -2922
+[INFO] Analysing... ../sequence-data\smoc1\PON2.fasta
+[INFO] Gene Name :: smoc1
+[INFO] line Count 434 and Sequence Length 30732
+[INFO] Alignment Score ==> -14360
+[INFO] Analysing... ../sequence-data\smoc1\TAZ.fasta
+[INFO] Gene Name :: smoc1
+[INFO] line Count 148 and Sequence Length 10445
+[INFO] Alignment Score ==> -5022
+[INFO] Analysing... ../sequence-data\smoc1\TCF4.fasta
+[INFO] Gene Name :: smoc1
+[INFO] line Count 5912 and Sequence Length 419663
+[INFO] Alignment Score ==> -53946
+[INFO] Analysing... ../sequence-data\smoc1\TRIM25.fasta
+[INFO] Gene Name :: smoc1
+[INFO] line Count 376 and Sequence Length 26604
+[INFO] Alignment Score ==> -12565
+[INFO] Analysing... ../sequence-data\snap25\0001.fasta
+[INFO] Gene Name :: snap25
+[INFO] line Count 1269 and Sequence Length 89979
+[INFO] Alignment Score ==> -42225
+[INFO] Analysing... ../sequence-data\snap25\0002.fasta
+[INFO] Gene Name :: snap25
+[INFO] line Count 2798 and Sequence Length 198581
+[INFO] Alignment Score ==> -54062
+[INFO] Analysing... ../sequence-data\snap25\HGS.fasta
+[INFO] Gene Name :: snap25
+[INFO] line Count 262 and Sequence Length 18539
+[INFO] Alignment Score ==> -8967
+[INFO] Analysing... ../sequence-data\snap25\MIR27A.fasta
+[INFO] Gene Name :: snap25
+[INFO] line Count 4 and Sequence Length 170
+[INFO] Alignment Score ==> -45
+[INFO] Analysing... ../sequence-data\snap25\NIPSNAP1.fasta
+[INFO] Gene Name :: snap25
+[INFO] line Count 381 and Sequence Length 26999
+[INFO] Alignment Score ==> -12716
+[INFO] Analysing... ../sequence-data\snap25\NIPSNAP2.fasta
+[INFO] Gene Name :: snap25
+[INFO] line Count 511 and Sequence Length 36203
+[INFO] Alignment Score ==> -17038
+[INFO] Analysing... ../sequence-data\snap25\NOS1.fasta
+[INFO] Gene Name :: snap25
+[INFO] line Count 2198 and Sequence Length 155949
+[INFO] Alignment Score ==> -54592
+[INFO] Analysing... ../sequence-data\snap25\SHBG.fasta
+[INFO] Gene Name :: snap25
+[INFO] line Count 278 and Sequence Length 19683
+[INFO] Alignment Score ==> -9177
+[INFO] Analysing... ../sequence-data\snap25\SRCIN1.fasta
+[INFO] Gene Name :: snap25
+[INFO] line Count 1105 and Sequence Length 78345
+[INFO] Alignment Score ==> -38678
+[INFO] Analysing... ../sequence-data\snap25\ZWINT.fasta
+[INFO] Gene Name :: snap25
+[INFO] line Count 57 and Sequence Length 3981
+[INFO] Alignment Score ==> -1840
+[INFO] Analysing... ../sequence-data\thumpd2\0001.fasta
+[INFO] Gene Name :: thumpd2
+[INFO] line Count 620 and Sequence Length 43924
+[INFO] Alignment Score ==> -19966
+[INFO] Analysing... ../sequence-data\thumpd2\HSPB2.fasta
+[INFO] Gene Name :: thumpd2
+[INFO] line Count 22 and Sequence Length 1469
+[INFO] Alignment Score ==> -617
+[INFO] Analysing... ../sequence-data\thumpd2\LACRT.fasta
+[INFO] Gene Name :: thumpd2
+[INFO] line Count 60 and Sequence Length 4189
+[INFO] Alignment Score ==> -2002
+[INFO] Analysing... ../sequence-data\thumpd2\SNX8.fasta
+[INFO] Gene Name :: thumpd2
+[INFO] line Count 1470 and Sequence Length 104263
+[INFO] Alignment Score ==> -49689
+[INFO] Analysing... ../sequence-data\thumpd2\SPDL1.fasta
+[INFO] Gene Name :: thumpd2
+[INFO] line Count 305 and Sequence Length 21538
+[INFO] Alignment Score ==> -9867
+[INFO] Analysing... ../sequence-data\thumpd2\TPX2.fasta
+[INFO] Gene Name :: thumpd2
+[INFO] line Count 898 and Sequence Length 63687
+[INFO] Alignment Score ==> -29909
+[INFO] Analysing... ../sequence-data\thumpd2\TRMT1.fasta
+[INFO] Gene Name :: thumpd2
+[INFO] line Count 183 and Sequence Length 12939
+[INFO] Alignment Score ==> -6352
+[INFO] Analysing... ../sequence-data\tmem16d\ANO4.fasta
+[INFO] Gene Name :: tmem16d
+[INFO] line Count 5877 and Sequence Length 417151
+[INFO] Alignment Score ==> -53364
+[INFO] Analysing... ../sequence-data\tspan13\0001.fasta
+[INFO] Gene Name :: tspan13
+[INFO] line Count 443 and Sequence Length 31340
+[INFO] Alignment Score ==> -14657
+[INFO] Analysing... ../sequence-data\tspan13\GLP1R.fasta
+[INFO] Gene Name :: tspan13
+[INFO] line Count 610 and Sequence Length 43219
+[INFO] Alignment Score ==> -20662
+[INFO] Analysing... ../sequence-data\tspan13\NAMPT.fasta
+[INFO] Gene Name :: tspan13
+[INFO] line Count 530 and Sequence Length 37527
+[INFO] Alignment Score ==> -16869
+[INFO] Analysing... ../sequence-data\tspan13\PFKFB3.fasta
+[INFO] Gene Name :: tspan13
+[INFO] line Count 1571 and Sequence Length 111427
+[INFO] Alignment Score ==> -53681
+[INFO] Analysing... ../sequence-data\tspan13\PFKFB4.fasta
+[INFO] Gene Name :: tspan13
+[INFO] line Count 641 and Sequence Length 45428
+[INFO] Alignment Score ==> -21922
+[INFO] Analysing... ../sequence-data\tspan13\S100A9.fasta
+[INFO] Gene Name :: tspan13
+[INFO] line Count 48 and Sequence Length 3310
+[INFO] Alignment Score ==> -1587
+[INFO] Analysing... ../sequence-data\znf180\0001.fasta
+[INFO] Gene Name :: znf180
+[INFO] line Count 376 and Sequence Length 26576
+[INFO] Alignment Score ==> -12563
+[INFO] Analysing... ../sequence-data\znf180\kifc3.fasta
+[INFO] Gene Name :: znf180
+[INFO] line Count 1500 and Sequence Length 106425
+[INFO] Alignment Score ==> -51020
+[INFO] Analysing... ../sequence-data\znf180\krtap10-7.fasta
+[INFO] Gene Name :: znf180
+[INFO] line Count 25 and Sequence Length 1689
+[INFO] Alignment Score ==> -644
+[INFO] Analysing... ../sequence-data\znf180\ndel1.fasta
+[INFO] Gene Name :: znf180
+[INFO] line Count 530 and Sequence Length 37508
+[INFO] Alignment Score ==> -17500
+
+
+[INFO] Predicted genotype --->ptprf
+[INFO] Inference Time 1.912081241607666
